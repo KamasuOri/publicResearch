@@ -1,7 +1,0 @@
-Breakpoint 0 hit
-JPEG2000!ShowPlugInSaveOptions_W+0x1ecd8:
-00007ffd`5ef44608 e803bcfeff      call    JPEG2000!ShowPlugInSaveOptions_W+0xa8e0 (00007ffd`5ef30210)
-0:000> g
-Breakpoint 1 hit
-JPEG2000!ShowPlugInSaveOptions_W+0x1ec6c:
-00007ffd`5ef4459c e86fbcfeff      call    JPEG2000!ShowPlugInSaveOptions_W+0xa8e0 (00007ffd`5ef30210)
